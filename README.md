@@ -1,6 +1,6 @@
 # data-security-and-privacy
 
-## 1️⃣ Exploring CIA Triad with Simulations
+## 1️ Exploring CIA Triad with Simulations
 
 **Task:**
 Use a Python-based simulation or online tools to demonstrate how data can be:
@@ -14,7 +14,7 @@ Show how the CIA Triad ensures robust information security even under cyberattac
 
 ---
 
-## 2️⃣ Virus Simulation Tool
+## 3 Virus Simulation Tool
 
 **Task:**
 Build a **virus simulation tool** — safe, educational, and non-malicious — to understand:
@@ -24,7 +24,7 @@ Build a **virus simulation tool** — safe, educational, and non-malicious — t
 
 ---
 
-## 3️⃣ Vulnerability Analyzer Tool
+## 4  Vulnerability Analyzer Tool
 
 **Task:**
 Build a **Vulnerability Analyzer Tool** in Python that:
@@ -34,7 +34,7 @@ Build a **Vulnerability Analyzer Tool** in Python that:
 
 ---
 
-## 4️⃣ Phishing Website Detection
+## 5 Phishing Website Detection
 
 **Task:**
 Use Python to detect phishing websites.
@@ -47,7 +47,7 @@ Use Python to detect phishing websites.
 
 ---
 
-## 5️⃣ Real-Time Messaging with TLS and E2EE
+## 6 Real-Time Messaging with TLS and E2EE
 
 **Task A:**
 Develop a **real-time messaging application** where two devices communicate securely using:
@@ -60,7 +60,7 @@ Draw a **sequence diagram** and build a **real-world messaging system** with E2E
 
 ---
 
-## 6️⃣ Hash Functions and Obfuscation
+## 7 Hash Functions and Obfuscation
 
 **Task A:**
 Implement common **hash functions** (e.g., `SHA-256`, `MD5`) using Python’s `hashlib` library.
@@ -75,7 +75,7 @@ Explore **obfuscation techniques**.
 
 ---
 
-## 7️⃣ Digital Signatures, Authentication, and Authorization
+## 8 Digital Signatures, Authentication, and Authorization
 
 **Task A:**
 Implement **digital signature generation and verification** using RSA and Python cryptography libraries (`cryptography` or `PyCryptodome`).
@@ -90,7 +90,7 @@ Explore how **digital signatures** secure online transactions in banking or e-co
 
 ---
 
-## 8️⃣ Identifying and Classifying PII Data
+## 9 Identifying and Classifying PII Data
 
 **Task A:**
 Given a dataset, write a script to **classify data into PII categories** in various states (in-transit, at-rest, in-use).
